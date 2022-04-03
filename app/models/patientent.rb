@@ -1,0 +1,2 @@
+class Patientent < ApplicationRecord
+end
