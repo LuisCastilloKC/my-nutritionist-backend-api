@@ -1,6 +1,6 @@
 require "test_helper"
 
-class Api::V1::PatiententsControllerTest < ActionDispatch::IntegrationTest
+class PatientTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
